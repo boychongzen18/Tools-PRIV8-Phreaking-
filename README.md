@@ -2,7 +2,10 @@
 
 # Windows & Termux Working
 
-# Tampilan Windows
+# Tampilan Windows Scanning Bug
+![be](https://raw.githubusercontent.com/boychongzen18/Tools-PRIV8-Phreaking-/master/win.png)
+![be](https://raw.githubusercontent.com/boychongzen18/Tools-PRIV8-Phreaking-/master/win1.png)
+
 ![be](https://raw.githubusercontent.com/boychongzen18/BugStatus/master/win.png)
 # Tampilan Window Bug Status 200ok
 ![be](https://raw.githubusercontent.com/boychongzen18/BugStatus/master/win1.png)
