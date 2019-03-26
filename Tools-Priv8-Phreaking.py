@@ -3,7 +3,8 @@ import requests
 # Tools Priv8 Phreaking Internet Provider Indonesia 
 # Output Bug200ok.txt 
 # Tested : Windows & Termux Working
-# Regard Boychongzen aka Xroot
+# eMAIL  : phreakingindo@gmail.com
+# Regard : Boychongzen aka Xroot
 
 
 print ('''\033[1m\033[93m[\033[91m!\033[93m] Tools Priv8 Phreaking Internet Provider Indonesia [ SALE ] \033[1;37m
